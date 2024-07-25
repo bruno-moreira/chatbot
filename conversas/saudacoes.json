@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["oi", "olá", "ola", "tudo bem?", "como vai?", "oi", "olá", "tudo bem?", "como vai?", "Como vai? Tudo bem?"],
+            "resposta": "Olá, sou o robô de informação sobre serviços de monitoramento. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["bom dia"],
+            "resposta": "Bom dia, sou o robô de informação sobre serviços de monitoramento. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["boa tarde"],
+            "resposta": "Boa tarde, sou o robô de informação sobre serviços de monitoramento. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["boa noite"],
+            "resposta": "Boa noite, ou o robô de informação sobre serviços de monitoramento. Como posso te ajudar?"
+        }
+    ]
+}

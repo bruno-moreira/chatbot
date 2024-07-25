@@ -1,0 +1,24 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["O que é Zabbix?", "Zabbix faz o que?", "Zabbix o que é?"],
+            "resposta": "O Zabbix é uma plataforma de software open-source para monitoramento de redes"
+        },
+        {
+            "mensagens": ["Qual relação entre Zabbix e grafana?", "O que tem a ver Zabbix e Grafana?", "Como são relacionados?"],
+            "resposta": "O Grafana pode ser integrado ao Zabbix utilizando plugins específicos, permitindo que os dados coletados." 
+        },
+        {
+            "mensagens": ["Grafana?", "Faz o que Grafana?", "Grafana é uma ferramenta?"],
+            "resposta": "Grafana é uma plataforma open-source amplamente utilizada para a visualização e análise de dados."
+        },
+        {
+            "mensagens": ["Quais são os benefícios de integrar zabbix com grafana?", "O que tenho a ganhar com os dois juntos?", "Por que juntar o Zabbix com Grafana?" ],
+            "resposta": "Visualização Avançada: Enquanto o Zabbix possui suas próprias ferramentas de visualização, o Grafana é conhecido por suas capacidades avançadas de criação de gráficos e dashboards" 
+        },
+        {
+            "mensagens": ["Como configurar a integração entre zabbix e grafana?", "Integrar Zabbix com Grafana?", "Como configurar os dois?"],
+            "resposta": "https://medium.com/zabbix-brasil/integrando-zabbix-e-grafana-d46de4d1526d#:~:text=A%20integra%C3%A7%C3%A3o%20entre%20as%20ferramentas,consumir%20a%20API%20do%20Zabbix."
+        }
+    ]
+}
